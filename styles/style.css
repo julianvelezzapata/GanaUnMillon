@@ -1,0 +1,31 @@
+/*estilos del framework de las particulas de fondo*/
+#particles-js {
+	height: 100vh; 
+	width: 100%;
+    position: fixed;
+    z-index: -1;
+}
+/*estilos header*/
+.img-fluid{
+    position: relative;
+    z-index: 99;
+    opacity: .65;
+    
+    text-align: center;
+
+}
+/*estilos card*/
+.card {
+	width: 90%;
+	max-width: 1200px;
+    background-size: cover; 
+    background-position:center;
+	margin-left: auto; 
+	margin-right: auto;
+    position: relative;
+    z-index: 99;
+    opacity: .65;
+}
+
+
+
